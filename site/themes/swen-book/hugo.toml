@@ -1,0 +1,6 @@
+[outputs]
+  home = ["HTML"]
+  section = ["HTML"]
+  list = ["HTML"]
+  single = ["HTML"]
+  index = ["HTML"]
