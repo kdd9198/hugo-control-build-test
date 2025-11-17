@@ -10,3 +10,10 @@ minifyOutput = true
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[outputs]
+  home = ["HTML"]
+  section = ["HTML"]
+  list = ["HTML"]
+  single = ["HTML"]
+  index = ["HTML"]
