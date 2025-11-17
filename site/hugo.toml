@@ -3,8 +3,6 @@ relativeURLs = true
 languageCode = 'en-us'
 title = 'SWEN-'
 
-theme = 'swen-book'
-
 cleanDestinationDir = true
 minifyOutput = true
 
