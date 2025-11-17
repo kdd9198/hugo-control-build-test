@@ -1,0 +1,8 @@
+name = 'swen-book'
+
+[outputs]
+  home = ["HTML"]
+  section = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
+  page = ["HTML"]
