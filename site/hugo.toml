@@ -6,5 +6,12 @@ title = 'SWEN-'
 cleanDestinationDir = true
 minifyOutput = true
 
+[outputs]
+home    = ["HTML"]
+section = ["HTML"]
+taxonomy = ["HTML"]
+term     = ["HTML"]
+page     = ["HTML"]
+
 [markup.goldmark.renderer]
   unsafe = true
