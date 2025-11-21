@@ -3,7 +3,6 @@ baseURL = "/"
 title = 'build-test'
 
 cleanDestinationDir = true
-relativeURLs = true
 
 [outputs]
 home = ["HTML", "RSS"]
