@@ -1,17 +1,16 @@
 baseURL = 'https://example.org/'
 relativeURLs = true
 languageCode = 'en-us'
-title = 'SWEN-'
+title = 'build-test'
 
 cleanDestinationDir = true
-minifyOutput = true
 
 [outputs]
-home    = ["HTML"]
+home = ["HTML"]
 section = ["HTML"]
 taxonomy = ["HTML"]
-term     = ["HTML"]
-page     = ["HTML"]
+term = ["HTML"]
+page = ["HTML"]
 
 [markup.goldmark.renderer]
   unsafe = true
